@@ -7,10 +7,10 @@ Full Stack Web Developer - Focusing on React Development
 I am an ex automotive professional turned developer. I attended a Full Stack bootcamp at NEXT Academy, Malaysia back in 2018 and found my passion for software development. I stayed on as a mentor after graduating and I have helped more than 200 students gain their entry into the tech industry as software developers. I have now moved on to working as a React Developer at GoGet Malaysia.
 
 * 🌍  I'm based in Kuala Lumpur, Malaysia
-* 🖥️  See my portfolio at [here](http://matthewcross.me)
+* 🖥️  See my portfolio at [here](http://mattcross.dev)
 * ✉️  You can contact me at [mattjcrossdev@gmail.com](mailto:mattjcrossdev@gmail.com)
 * 🚀  I'm currently working on [GoGet](http://goget.my)
-* 🧠  I'm learning Flutter (soon)
+* 🧠  I'm learning more NextJS
 * ⚡  I love bunnies, they are the most adorable and misunderstood pets 🐰
 
 ### Skills
